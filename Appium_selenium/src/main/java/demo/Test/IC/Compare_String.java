@@ -14,6 +14,8 @@ public class Compare_String {
 				System.out.println("" + strAr2[i]);
 			}
 
+			System.out.println("Test");
+
 //			if (strAr2[i].compareTo(strAr2[i])) {
 //				System.out.println("" + strAr2[i]);
 //			}
